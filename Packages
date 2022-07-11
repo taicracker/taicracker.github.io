@@ -1,0 +1,11 @@
+Package: com.google.youtube2
+Version: 17.25.1
+Section: Utilities
+Maintainer: taicracker <xlhclmm@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/youtube2.deb
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: Youtube
+Author: google
+Maintainer: google
+Tags: compatible_min: ios 12.0
