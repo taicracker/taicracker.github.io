@@ -2,50 +2,46 @@ Package: com.google.youtube2
 Version: 17.25.1
 Section: Applications
 Maintainer: taicracker <xlhclmm@gmail.com>
-Architecture: iphoneos-arm
 Depends: firmware (>=7.0)
-Filename: ./debs/youtube2.deb
+Filename: ./debs/com.youtube2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Youtube
 Author: google
 Maintainer: google
-Tags: compatible_min: ios 14.0 - 15.4.1
+Tags: compatible_min: ios 12.0
 
 Package: com.facebook.Facebook2
 Version: 374.0
 Section: Applications
 Maintainer: taicracker <xlhclmm@gmail.com>
-Architecture: iphoneos-arm
 Depends: firmware (>=7.0)
-Filename: ./debs/facebook2.deb
+Filename: ./debs/com.facebook2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Facebook2
 Author: facebook
 Maintainer: facebook
-Tags: compatible_min: ios 14.0 - 15.4.1
+Tags: compatible_min: ios 12.0
 
 Package: vn.com.vng.zingalo2
 Version: 220602
 Section: Applications
 Maintainer: taicracker <xlhclmm@gmail.com>
-Architecture: iphoneos-arm
 Depends: firmware (>=7.0)
-Filename: ./debs/zalo2.deb
+Filename: ./debs/com.zalo2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Zalo2
 Author: Zalo
 Maintainer: Zalo
-Tags: compatible_min: ios 14.0 - 15.4.1
+Tags: compatible_min: ios 12.0
 
 Package: tv.Twitch2
 Version: 13.3
 Section: Applications
 Maintainer: taicracker <xlhclmm@gmail.com>
-Architecture: iphoneos-arm
 Depends: firmware (>=7.0)
-Filename: ./debs/twitch2.deb
+Filename: ./debs/com.twitch2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Twitch-no-ADS
 Author: mod by taicracker
 Maintainer: Twitch
-Tags: compatible_min: ios 14.0 - 15.4.1
+Tags: compatible_min: ios 12.0
