@@ -18,8 +18,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/facebook2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Facebook2
-Author: mod download by taicracker
-Maintainer: 
+Author: mod by taicracker
+Maintainer: facebook
 Tags: compatible_min: ios 14.0 - 15.4.1
 
 Package: vn.com.vng.zingalo2
@@ -29,9 +29,9 @@ Maintainer: taicracker <xlhclmm@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/zalo2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Name: Douyin-DL 抖音
-Author: mod by taicracker
-Maintainer: 
+Name: Zalo2
+Author: Zalo
+Maintainer: Zalo
 Tags: compatible_min: ios 14.0 - 15.4.1
 
 Package: tv.Twitch2
@@ -43,5 +43,5 @@ Filename: ./debs/twitch2.deb
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Twitch-no-ADS
 Author: mod by taicracker
-Maintainer: 
+Maintainer: Twitch
 Tags: compatible_min: ios 14.0 - 15.4.1
