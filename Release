@@ -1,8 +1,11 @@
-Origin: taicracker
-Label: taicracker
+Origin: Little 34306's Repo
+Label: 34306
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architecture: iphoneos-arm
 Components: main
-Description: taicracker Oficial Repo.
+Description: A little repo to use
+MD5Sum:
+ e5342708439eb45dd431f12c5fb1c524 61100 Packages
+ 2e1a70a1d579b623633451ce9bd1c61d 19712 Packages.bz2
