@@ -1,8 +1,0 @@
-Origin: taicracker Repo
-Label: taicracker
-Suite: stable
-Version: 1.0
-Codename: ios
-Architecture: iphoneos-arm
-Components: main
-Description:
