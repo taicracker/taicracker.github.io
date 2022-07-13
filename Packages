@@ -2,8 +2,7 @@ Package: vn.com.vng.zingalo2
 Architecture: iphoneos-arm
 Version: 220602
 Section: Applications
-Maintainer: woodfairy & Litten
-Installed-Size: 716
+Installed-Size: 46658772
 Depends: firmware (>=7.0)
 Filename: ./debs/vn.com.vng.zingalo2.deb
 Size: 46658772
@@ -12,5 +11,53 @@ SHA1: be90711a837e228d2e6e8f55cb2002b636949b17
 SHA256: 1d24b10ef4411197f294e31782d8c99da423cf100fe4bbb1424f4448b5848b21
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: Zalo2
-Author: com
-Maintainer: com
+Author: mod by taicracker
+Maintainer: Zalo
+
+Package: com.google.youtube2
+Architecture: iphoneos-arm
+Version: 17.25.1
+Section: Applications
+Installed-Size: 85117080
+Depends: firmware (>=12.0)
+Filename: ./debs/com.google.youtube2.deb
+Size: 85117080
+MD5sum: D72655916239B1D91B0B6569C67769B9
+SHA1: 6BC78736893CDD15927D8ED37D1D5EE91CF8792D
+SHA256: C99A1D3DF287D3D36325F6DA1C5C14DDD2F56F8C3CB1E7C199909453C5A5FC02
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: Youtube2-UYT
+Author: mod by taicracker
+Maintainer: Google
+
+Package: com.facebook.Facebook2
+Architecture: iphoneos-arm
+Version: 374.0
+Section: Applications
+Installed-Size: 83312484
+Depends: firmware (>=12.0)
+Filename: ./debs/com.facebook.Facebook2.deb
+Size: 83312484
+MD5sum: 48572580C5F7F66219CA62C6205D9409
+SHA1: 9E84C2B95B25A1CE6C6333938382FBA536D636FA
+SHA256: F61B8788D8A28C359DA92D842CCC60557EBCE3F6A3298926900FF6965FA369F50D390F10717B00D56B78DB5D2109F7B0BE720E464941E85D905B691782668975
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: Facebook2-Download
+Author: mod by taicracker
+Maintainer: Facebook
+
+Package: tv.twitch2
+Architecture: iphoneos-arm
+Version: 13.3
+Section: Applications
+Installed-Size: 27847084
+Depends: firmware (>=12.0)
+Filename: ./debs/tv.twitch2.deb
+Size: 27847084
+MD5sum: 91591725BB9D648490C837ADBC30FDD5
+SHA1: 27677B8CD127085AB8EDF4968B33575B6506B0F6
+SHA256: 100DE238A75CB677B76788598A1FC51ED9C7BFC42BF4D4DCBD4249207A0638F5FD729E946AC457543112EEE123FBB9EFE25E00A7ECDD7A9A2924AF361724AF9F
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: Twitch2-noADS
+Author: mod by taicracker
+Maintainer: Twitch
