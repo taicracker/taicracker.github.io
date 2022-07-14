@@ -68,7 +68,7 @@ Maintainer: taicracker
 
 Package: com.uni.UnicornApp
 Architecture: iphoneos-arm
-Version: 13.3
+Version: 19.3.0
 Section: Applications
 Installed-Size: 69218320
 Depends: firmware (>= 14.0)
