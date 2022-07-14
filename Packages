@@ -117,7 +117,7 @@ Name: Youtube Reborn
 Author: SarahH12099, save tweaks by taicracker
 Maintainer: SarahH12099
 
-Package: netskao.awemepurification
+Package: netskao.aweme
 Architecture: iphoneos-arm
 Version: 2.3-3
 Section: Utilities
