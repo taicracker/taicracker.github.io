@@ -122,14 +122,15 @@ Architecture: iphoneos-arm
 Version: 2.3-3
 Section: Utilities
 Installed-Size: 153166
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
-Filename: ./debs/netskao.awemepurification_2.3-3_iphoneos-arm.deb
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Filename: ./debs/netskao.awemepurification_2.3.3_iphoneos-arm.deb
 Size: 153166
 MD5sum: 4C9F58F277490FD7E2BD83D12341B774
 SHA1: 23B1AF946622585836CE947D694F5B108A86ADD1
 SHA256: 5C78DF9FEA005E8B951CC034038B76CEEE235AE89A96013871BA475F49BDA950
 SHA512: A532870149E8D1D722C5AB5F2FF15233636FDF25B7B19EC9ACD2268722E075F8F6CF9B074A9F7F554345ACE7787896BA8775B2892BE4062E1B15CA03EFA80D1F
-Description: Thêm các tùy chọn cao cấp vào Tiktok-China (抖音), Download video without watermark, Double-tap to copy the text on the Douyin homepage.....
-Name: Douyin Utilities
+Description: Thêm các tùy chọn cao cấp vào Tiktok-China (抖音), Download video without watermark,..........
+Name: TiktokChina-Mod
 Author: Netskao, save tweaks by taicracker
 Maintainer: Netskao
+
